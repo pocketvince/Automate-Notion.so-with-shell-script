@@ -1,5 +1,5 @@
 # Notion.so
-![Alt text](https://github.com/pocketvince/Notion.so/blob/main/notion.gif?raw=true "notion")
+![Alt text](https://github.com/pocketvince/Automate-Notion.so-with-shell-script/blob/main/notion.gif?raw=true "notion")
 
 Script to add tasks on Notion in command line
 
